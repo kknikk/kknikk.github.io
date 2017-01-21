@@ -9,6 +9,7 @@ labels:
   - Javascript
 ---
 <img class="ui tiny right spaced image" src="../images/javascript-logo.png" width="250">
+
 ## Introduction
 I love to code. There is beauty in the seamless meeting of logic and creativity. Like most, I started out learning Java before progressing onto the other languages, and it was where I found my passion for coding. Java has always made sense to me and while I don’t have a lot of experience in Javascript, I have always been optimistic about it. Since it is a language that is widely used professionally, it is absolutely crucial that one has an understanding of its capabilities and limits.
 
