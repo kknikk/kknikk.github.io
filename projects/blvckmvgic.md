@@ -12,7 +12,7 @@ labels:
   - Mobile
 summary: Create, send, and recieve encrypted messages hidden Steganographically within a photo. 
 ---
-<img  src="../images/BM-LOGO.png" width="800" height"400">
+<img  src="../images/BM-LOGO.png" width="800" height="400">
 
 Create, send, and recieve encrypted messages hidden Steganographically within a photo. 
 
