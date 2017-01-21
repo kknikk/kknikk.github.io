@@ -2,7 +2,7 @@
 layout: project
 type: project
 title: JABSOM Pain Assesment Application
-image: images/Jabsom.png
+image: images/jabsom-square.png
 permalink: projects/pain
 date: 2016
 labels:
