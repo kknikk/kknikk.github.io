@@ -12,7 +12,9 @@ labels:
   - Mobile
 summary: Create, send, and recieve encrypted messages hidden Steganographically within a photo. 
 ---
+
 <img class="ui medium right floated rounded image" src="../images/BM-LOGO.png">
+
 
 ##Create, send, and recieve encrypted messages hidden Steganographically within a photo. 
 
