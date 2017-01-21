@@ -9,7 +9,7 @@ labels:
 ---
 
 ## Human Herpes Virus 6
-*This is an abstract. For the full paper refer to click [here](essays/HHV6.pdf)*
+*This is an abstract. For the full paper refer to click [here](/HHV6.pdf)*
 
 Human herpesvirus 6 (HHV-6) is a DNA containing virus belonging to the Roseolovirus genus of the ß-herpesvirus subfamily. HHV-6 exists in two different variants referred to as A and B.  HHV-6 has a worldwide distribution and presents itself as a typical herpesvirus often inducing latent infections in monocytes and macrophages.  Infection with HHV-6 is extremely common, with nearly 100% in seroprevalence. The virus has a tropism for lymphocytes, often targeting CD4+ cells. It is likely that the virus is transmitted via oral secretions and in one study 90% of infected adults displayed virions in their saliva. It should be noted, however, that other studies have shown lower rates (Campadelli, Mirandola, & Menotti, 1999). 
 
