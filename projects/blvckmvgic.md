@@ -2,7 +2,7 @@
 layout: project
 type: project
 title: BLVCKMVGIC
-image: images/BM-LOGO.png
+image: images/BM-logo-square.png
 permalink: projects/blvckmvgic
 date: 2016
 labels:
