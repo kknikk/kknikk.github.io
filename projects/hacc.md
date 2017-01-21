@@ -12,7 +12,7 @@ labels:
   - Wordpress
 summary: Developed website for State of Hawaii's first Hawaii Annual Code Challenge.
 ---
-<img src="../images/code.jpg" width="600" height="300">
+<img src="../images/code.jpg" width="800" height="400">
 
 ## STATE OF HAWAI‘I CALLS ON PROGRAMMERS TO HELP IMPROVE GOVERNMENT
 To engage the local tech community in the modernization of Hawai‘i state government, Governor David Ige and the Office of Enterprise Technology Services (ETS) will be presenting the Hawai‘i Annual Code Challenge from August 27 to September 24. Refreshments will be provided.
