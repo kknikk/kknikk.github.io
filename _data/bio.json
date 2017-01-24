@@ -42,22 +42,22 @@
       "name": "Cryptography",
       "keywords": [
       ]
-    }
+    },
     {
       "name": "Genetics/Epigenetics",
       "keywords": [
       ]
-    }
+    },
     {
       "name": "Microbiology",
       "keywords": [
       ]
-    }
-  {
+    },
+    {
       "name": "Virology",
       "keywords": [
       ]
-    }
+    },
   ],
   "skills": [
     {
@@ -146,6 +146,17 @@
       "summary": "Assisted with development and debugging of a pain assesment application on the Android platform",
       "highlights": [
         "Increased proficiency in Java",
+        "Worked with a small team to debug and improve application",
+      ]
+    },
+    {
+      "website": "https://kknikk.github.io/projects/blvckmvgic",
+      "position": "Software Engineer",
+      "startDate": "2016-08-01",
+      "endDate": "Present",
+      "summary": "Designed and implemented BLVCKMVGIC which allows users to send messages or data hidden within photos. We are currently redesigning the application to utilize PGP encryption instead of RSA. ",
+      "highlights": [
+        "Gained experience in Swift, cryptography, and steganography",
         "Worked with a small team to debug and improve application",
       ]
     },
