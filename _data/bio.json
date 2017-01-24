@@ -6,7 +6,7 @@
     "email": "kurtkn@hawaii.edu",
     "phone": "808-756-7585",
     "website": "https://kknikk.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018. I also have a background in Biology (B.S.).",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -43,6 +43,21 @@
       "keywords": [
       ]
     }
+    {
+      "name": "Genetics/Epigenetics",
+      "keywords": [
+      ]
+    }
+    {
+      "name": "Microbiology",
+      "keywords": [
+      ]
+    }
+  {
+      "name": "Virology",
+      "keywords": [
+      ]
+    }
   ],
   "skills": [
     {
@@ -65,6 +80,7 @@
         "MacOS",
         "Windows",
         "Git/GitHub",
+        "Linux",
         
       ]
     }
@@ -88,7 +104,7 @@
       "website": "",
       "startDate": "2016-07-01",
       "endDate": "Present",
-      "summary": "On-site IT for the entire hotel",
+      "summary": "On-site IT for hotel. Work closely with a remote team on issues.",
       "highlights": [
         "Maintain and provide support for two different domains",
         "Install and troubleshoot software, printers, and networking issues",
@@ -119,6 +135,18 @@
       "highlights": [
         "Increased proficiency in HTML, CSS, PHP, and JS",
         "Presented weekly status updates to state staff and worked closely with other interns to build the event from the ground up",
+      ]
+    },
+    {
+      "organization": "John A Burns School of Medicine, University of Hawaii",
+      "website": "http://jabsom.hawaii.edu/",
+      "position": "Software Engineer",
+      "startDate": "2016-07-01",
+      "endDate": "2016-11-01",
+      "summary": "Assisted with development and debugging of a pain assesment application on the Android platform",
+      "highlights": [
+        "Increased proficiency in Java",
+        "Worked with a small team to debug and improve application",
       ]
     },
   ],
