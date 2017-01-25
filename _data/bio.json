@@ -6,7 +6,7 @@
     "email": "kurtkn@hawaii.edu",
     "phone": "808-756-7585",
     "website": "https://kknikk.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018. I also have a background in Biology (B.S.).",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of    Hawaii. I expect to graduate in Spring, 2018. I also have a background in Biology (B.S.).",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -116,7 +116,7 @@
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2014-02-01",
-      "endDate": "present",
+      "endDate": "Present",
       "summary": "Provide end user support",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
