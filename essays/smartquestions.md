@@ -9,7 +9,7 @@ labels:
   - StackOverflow
 ---
 
-<img class="ui medium right spaced image" src="../images/stackoverflow.jpg">
+<img class="ui fluid image" src="../images/stackoverflow.jpg">
 
 ## How to Ask a "Smart" Question
 
