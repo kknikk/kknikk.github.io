@@ -95,6 +95,16 @@
       "gpa": "",
       "courses": [
       ]
+    },
+    {
+      "institution": "University of Nevada, Reno, NV",
+      "area": "Biology",
+      "studyType": "B.S.",
+      "startDate": "2007-09-01",
+      "endDate": "2011-04-15",
+      "gpa": "3.5",
+      "courses": [
+      ]
     }
   ],
   "work": [
