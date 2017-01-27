@@ -8,7 +8,8 @@ labels:
   - Learning
   - StackOverflow
 ---
-<img src="../images/stackoverflow.jpg">
+
+<img class="ui medium right spaced image" src="../images/stackoverflow.jpg">
 ## How to Ask a "Smart" Question
 
 As a member of the tech community, there will be many instances where you will need help. This is especially true for programmers. Thankfully, there is a very large and active online community where knowledge is freely shared. Crucial websites such as StackOverflow are open to programmers of any level, but there is etiquette to posting questions. While these rules aren’t always enforced by moderators, it is frowned upon if you don’t ask questions in a “smart” way. This essay will analyze two different posts on StackOverflow and will shed light on the difference between a  “smart” and a “not smart” question. 
