@@ -8,8 +8,11 @@ labels:
   - Git
 ---
 
-## Reflections on Configuration Managenment
+<img class="ui fluid image" src="../images/github.png">
 
+## Reflections on Configuration Management
+
+<<<<<<< HEAD
 Configuration management is crucial for any software engineer. It allows teams to build large, complex 
 softweare systems and tracks changes thus making it very useful for version control as well as testing. 
 Configuraiton management addresses three issues that developers face: collaboration, preservation of integrity,
@@ -23,4 +26,8 @@ when working on larger projects. There are also advantages to storing all versio
 The benefits of a system like this is that multiple developers can make changes, and each change can then be attributed to a 
 specific developer. On the downside, the fact that everything is stored on a remote database means no changes can be made when 
 that server goes down; and if the central database is lost, each client only has the current version of whatever they were working on.
+=======
+Configuration management is crucial for any software engineer. It allows teams to build large, complex softweare systems and tracks changes thus making it 
+very useful for version control as well as testing. Platforms such as Github has allowed open source software to really take off in recent history. 
+>>>>>>> origin/master
 
