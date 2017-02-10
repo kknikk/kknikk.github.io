@@ -8,7 +8,7 @@ labels:
   - Learning
   - Coding Standards
 ---
-<img class="ui fluid image" src="../images/greencheckmark.jpg">
+<img class="ui medium rounded image" src="../images/greencheckmark.jpg">
 
 ## The Importance of Code Standards
 
