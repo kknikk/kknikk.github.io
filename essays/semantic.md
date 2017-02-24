@@ -9,9 +9,9 @@ labels:
   - Semantic UI
 ---
 
-<img class="ui small left floated image" src="https://pace.oregonstate.edu/sites/default/files/styles/course_banner_large/public/images/course/cover/pace-oregon-state-web-design-development-certificate.jpg?itok=eHaM8IrN">
+<img class="ui fluid image" src="https://pace.oregonstate.edu/sites/default/files/styles/course_banner_large/public/images/course/cover/pace-oregon-state-web-design-development-certificate.jpg?itok=eHaM8IrN">
 <p>Web design has always been something I have been interested in. In fact, my introduction to HTML and CSS came early when I was trying to make my XANGA and Myspace look cooler than my friend’s. I did not understand much of the code, but I enjoyed the aesthetics and how changing a line could result in an immediate, visual change. As an adult now, I appreciate the same things, but have realized that designing a website with raw HTML and CSS can be quite difficult. Luckily, UI Frameworks such as Semantic UI exist.</p> 
-<img class="ui medium center aligned image" src="http://semantic-ui.com/images/devices.png">
+<img class="ui medium right floated image" src="http://semantic-ui.com/images/devices.png">
 <p>Semantic UI has been a game changer for me. The first thing I noticed about it was its user friendly HTML. The class names are closer to english than other frameworks such as Bootstrap which makes designing with Semantic feel more intuitive and natural.  In addition, Semantic is responsively designed and I noticed this immediately when working with images. Creating a background that resizes correctly and smoothly when a browser window is expanded or reduced was a challenge that I initially faced when working with HTML and CSS. While a solution was found it was somewhat complicated. Semantic allowed me to accomplish this with the following code:</p> 
   
  `<img class=”ui fluid image” src=”...”>`
