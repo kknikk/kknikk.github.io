@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Semantic UI: Intuitive Web Development
+title: Semantic UI and Intuitive Web Development
 date: 2017-02-23
 labels:
   - UI Framework
