@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Thoughts on UI Frameworks
+title: Thoughts on Semantic UI
 date: 2017-02-23
 labels:
   - UI Framework
