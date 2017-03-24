@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Configuration Managenment
+title: Configuration Management
 date: 2017-01-26
 labels:
   - Programming
