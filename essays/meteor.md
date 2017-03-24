@@ -8,8 +8,6 @@ labels:
   - Meteor JS
 ---
 
-# Meteor: The Good, the Bad, and the Ugly
-
 <img class="ui fluid image" src="/images/Meteorjs.png">
 
 ## The Good
