@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Meteor - The Good, the Bad, and the Ugly
-date: 2017-01-26
+date: 2017-03-23
 labels:
   - Programming
   - Meteor JS
