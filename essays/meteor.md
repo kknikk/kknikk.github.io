@@ -26,7 +26,7 @@ Another downside of Meteor is that it has a very steep learning curve. For those
 
 ## The Ugly
 
-<img class="ui small image" src="https://static-cdn.jtvnw.net/emoticons/v1/58765/3.0">
+<img class="ui right floated small image" src="https://static-cdn.jtvnw.net/emoticons/v1/58765/3.0">
 I have a MacBook laptop and a desktop computer running Windows 10 at home. I prefer to do the bulk of my work on the desktop since it is more powerful, has a bigger screen, and has a better keyboard, but I ran into some inexplicable errors that I never experienced on OSX. For instance, sometimes IntelliJ would get stuck indexing and the application would not refresh. This could only be alleviated by clearing the cache or restarting IntelliJ. This was quite frustrating and caused me to stress out more than a few times. 
 
 
