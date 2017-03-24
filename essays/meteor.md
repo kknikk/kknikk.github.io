@@ -1,10 +1,10 @@
 # Meteor: The Good, the Bad, and the Ugly
 
-<img class="ui fluid image" src="images/meteorjs.png">
+<img class="ui fluid image" src="/images/meteorjs.png">
 
 ## The Good
 
-<img class="ui small left floated image" src="images/like.png">
+<img class="ui small left floated image" src="/images/like.png">
 One of the best things about Meteor is that it’s full stack and comes with a lot of integration, support and features by default. This includes database integrations as well as front-end framework. Meteor also allows users to swap out defaults based on their preferences. While we did not have a chance to do this in class, I look forward to being able to experiment with other Javascript frameworks such as React or Angular JS. 
 
 Another advantage of Meteor is that it’s fast and reactive. Present day users expect their UIs to be updated quickly and in real time. Meteor is readily able to meet this expectation. This functionality comes from the presence of a local “miniMongo” which is a subset of the MongoDB database. It was also nice to not always have to press refresh in the browser every time I wanted to update my application. I also enjoyed the templating once I understood how it works. 
