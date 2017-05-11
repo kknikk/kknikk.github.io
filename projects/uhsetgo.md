@@ -14,7 +14,8 @@ summary: Meteor application that hides text messages steganographically within i
 <p>UH students commonly send text messages to communicate, but sometimes SMS or instant chat is not secure enough. Truly sensitive data should be transported or hidden to ensure that it is not left exposed to nosey third parties. Our application allows students hide sensitive text messages or images steganographically. These doctored images can be used a transport media to deliver messages without raising any suspicion or attracting unwanted attention. Once in the hands of the proper recipient, the hidden message can be extracted.</p>
 
 <img class="ui medium left floated image" src="../images/encrypt_download.png">
-<img class="ui medium left floated image" src="../images/decrypt.png">
+<img class="ui medium image" src="../images/decrypt.png">
+
 
 ## Development 
 <p>We used issue driven project management to complete the application. As a team, we planned three milestones during the development. These milestones were adjusted as time went on and depended on the progress we made. We reported and created issues within Github to fix bugs and perfect features.</p> 
