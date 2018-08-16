@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Kurt Nikaitani",
-    "label": "Student/IT Professional",
+    "label": "Student/Software Developer",
     "picture": "/images/temp-profile.jpg",
     "email": "kurtkn@hawaii.edu",
-    "phone": "808-756-7585",
+    "phone": "",
     "website": "https://kknikk.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of    Hawaii. I expect to graduate in Spring, 2018. I also have a background in Biology (B.S.).",
+    "summary": "I am studying for a M.S. in Computer Science in the Department of Information and Computer Sciences at the University of    Hawaii. I expect to graduate in Spring, 2018. I also have a background in Biology (B.S.).",
     "location": {
       "address": "",
       "postalCode": "96822",
